@@ -13,6 +13,7 @@
     "Igor Drenkov (Earth-616)"
    ],
    "method": "fight",
+   "how": "As the Hulk, Banner took Igor's gun, crumpled it with one hand, then picked Igor up and slammed him down on a lab bench.",
    "evidence": "He picks up Igor and slams him down on a lab bench",
    "confidence": "high"
   },
@@ -25,6 +26,7 @@
     "Richard Jones (Earth-616)"
    ],
    "method": "fight",
+   "how": "The Gargoyle shot the Hulk and Rick Jones with drug-filled bullets that made them like robots, so they followed him.",
    "evidence": "The Gargoyle shoots the Hulk and Jones with drug-filled bullets, making them like robots",
    "confidence": "high"
   },
@@ -36,6 +38,7 @@
     "Yuri Topolov (Earth-616)"
    ],
    "method": "other",
+   "how": "Banner treated the Gargoyle with radiation, which made him look normal but took away his super intelligence.",
    "evidence": "Banner treats him with radiation, which makes him look normal but takes away his super intelligence",
    "confidence": "low"
   }

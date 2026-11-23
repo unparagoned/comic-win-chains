@@ -8,6 +8,7 @@
     "Richard Parker (Simulacrum) (Earth-616)"
    ],
    "method": "fight",
+   "how": "\"Mary\" tossed a live wire at her transformed \"husband\", shorting him out.",
    "evidence": "\"Mary\" tosses a live wire at her \"husband\", shorting him out",
    "confidence": "high"
   },
@@ -19,6 +20,7 @@
     "Mary Parker (Simulacrum) (Earth-616)"
    ],
    "method": "fight",
+   "how": "The Vulture used the Juvinator device to absorb the artificial life force from \"Mary's\" body, ageing her into an elderly woman.",
    "evidence": "the Vulture uses the Juvinator device to absorb the artificial life force from \"Mary's\" body",
    "confidence": "high"
   },
@@ -30,6 +32,7 @@
     "Adrian Toomes (Earth-616)"
    ],
    "method": "fight",
+   "how": "Horrified at what the Vulture did to \"Mary\", Spider-Man struck him and knocked him out.",
    "evidence": "Spider-Man strikes the Vulture, knocking him out",
    "confidence": "high"
   }

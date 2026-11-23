@@ -13,6 +13,7 @@
     "Peter Parker (Earth-616)"
    ],
    "method": "fight",
+   "how": "The synopsis only says Spider-Man tried to stop the Juggernaut at Battery Park and was unsuccessful.",
    "evidence": "Peter runs to there and tries to stop Juggernaut, but he is unsuccessful",
    "confidence": "low"
   },
@@ -24,6 +25,7 @@
     "New York City Police Department (Earth-616)"
    ],
    "method": "fight",
+   "how": "The synopsis only says the police all failed to stop the Juggernaut as he reached Madame Web's apartment.",
    "evidence": "All of them fail as Juggernaut arrives at Madame Web's apartment",
    "confidence": "low"
   },
@@ -35,6 +37,7 @@
     "Cain Marko (Earth-616)"
    ],
    "method": "talked_down",
+   "how": "Spider-Man told the Juggernaut that taking Madame Web from her chair was nearly killing her, so Cain left her on the floor and quit.",
    "evidence": "Cain decides to leave Madame Web on the floor and quits",
    "confidence": "medium"
   }

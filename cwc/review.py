@@ -30,7 +30,7 @@ def main() -> None:
             n += 1
             lines.append(
                 f"- [ ] **{name(d['winners'])}** beat **{name(d['losers'])}** "
-                f"({d['method']}, {d['confidence']})  \n  > {d['evidence']}"
+                f"({d['method']}, {d['confidence']})  \n  How: {d.get('how', '')}  \n  > {d['evidence']}"
             )
         lines.append("")
     lines += ["## No defeats found", ""]

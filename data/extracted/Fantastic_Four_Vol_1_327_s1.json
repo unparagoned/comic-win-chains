@@ -13,6 +13,7 @@
     "Morris Bench (Earth-616)"
    ],
    "method": "fight",
+   "how": "After Hydro-Man doused his flames, Johnny raised his heat enough to turn Hydro-Man into steam.",
    "evidence": "Johnny increases his heat enough to turn his attacker into steam",
    "confidence": "medium"
   },
@@ -24,6 +25,7 @@
     "Ulysses Klaw (Earth-616)"
    ],
    "method": "fight",
+   "how": "When Klaw tried to use him as a hostage, Franklin unleashed his mutant powers and sent Klaw reeling with a psi-blast.",
    "evidence": "Franklin unleashes his mutant powers and sends him reeling with a psi-blast",
    "confidence": "medium"
   },
@@ -35,6 +37,7 @@
     "Reed Richards (Earth-616)"
    ],
    "method": "fight",
+   "how": "The synopsis only says the Wizard managed to incapacitate Reed as they battled.",
    "evidence": "the Wizard, who manages to incapacitate him as they battle",
    "confidence": "high"
   },
@@ -46,6 +49,7 @@
     "Benjamin Grimm (Earth-616)"
    ],
    "method": "fight",
+   "how": "The Wizard blasted Ben aside when Ben rushed to Reed's aid.",
    "evidence": "Ben rushes to Reed's aid, only to be blasted aside himself",
    "confidence": "low"
   },
@@ -59,6 +63,7 @@
     "Bentley Wittman (Earth-616)"
    ],
    "method": "fight",
+   "how": "Sharon sent Titania slamming into the Wizard, then Johnny used his flames to make the Wizard's Wonder Gloves too hot to wear.",
    "evidence": "Sharon sends Titania slamming into the Wizard",
    "confidence": "medium"
   },
@@ -76,6 +81,7 @@
     "Ulysses Klaw (Earth-616)"
    ],
    "method": "fight",
+   "how": "The synopsis only says the Fantastic Four ambushed the Frightful Four at their hideout, gained the edge and took them down one by one.",
    "evidence": "the Fantastic Four gain the edge and start taking down their foes one by one",
    "confidence": "medium"
   },
@@ -90,6 +96,7 @@
     "Sharon Ventura (Earth-616)"
    ],
    "method": "fight",
+   "how": "Just as they were winning, the four heroes were incapacitated by a sudden mental bolt; Aron is then revealed as the Wizard's new ally.",
    "evidence": "suddenly the four heroes are incapacitated by a mental bolt",
    "confidence": "medium"
   }

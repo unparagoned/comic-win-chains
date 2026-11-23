@@ -1,4 +1,4 @@
 {"defeats": [
- {"winners": ["Mandarin (Earth-616)"], "losers": ["Bruce Banner (Earth-616)"], "method": "outsmarted", "evidence": "the Mandarin manages to capture the Hulk in a glass dome and knock him out with gas", "confidence": "high"},
- {"winners": ["Bruce Banner (Earth-616)", "Nicholas Fury (Earth-616)", "Yuri Brevlov (Earth-616)"], "losers": ["Mandarin (Earth-616)"], "method": "fight", "evidence": "With the Mandarin defeated, the Hulk walks away", "confidence": "high"}
+ {"winners": ["Mandarin (Earth-616)"], "losers": ["Bruce Banner (Earth-616)"], "method": "outsmarted", "how": "After a quicksand trap failed, the Mandarin captured the Hulk in a glass dome, knocked him out with gas and fitted him with a control device.", "evidence": "the Mandarin manages to capture the Hulk in a glass dome and knock him out with gas", "confidence": "high"},
+ {"winners": ["Bruce Banner (Earth-616)", "Nicholas Fury (Earth-616)", "Yuri Brevlov (Earth-616)"], "losers": ["Mandarin (Earth-616)"], "method": "fight", "how": "Fury and Brevlov destroyed the device controlling the Hulk, and the furious Hulk attacked the Mandarin's castle until it fell apart.", "evidence": "With the Mandarin defeated, the Hulk walks away", "confidence": "high"}
 ]}

@@ -17,6 +17,7 @@
     "Jack Power (Earth-616)"
    ],
    "method": "fight",
+   "how": "The Morlocks overwhelmed the Power Pack in the sewers and subdued them, with Masque altering Katie's face as she escaped.",
    "evidence": "the Power Pack are overwhelmed by the Morlock who attempt to subdue them",
    "confidence": "medium"
   },
@@ -28,6 +29,7 @@
     "Leech (Earth-616)"
    ],
    "method": "other",
+   "how": "Leech tried to nullify Rogue's powers, and their powers cancelled each other out, knocking Leech out.",
    "evidence": "both cancel each other out, knocking out Leech",
    "confidence": "medium"
   },
@@ -39,6 +41,7 @@
     "Morlocks (Earth-616)"
    ],
    "method": "fight",
+   "how": "Left powerless, Rogue beat the army of Morlocks with her superior fighting skill.",
    "evidence": "Rogue is able to beat them with her superior fighting skill",
    "confidence": "medium"
   },
@@ -51,6 +54,7 @@
     "Annalee (Earth-616)"
    ],
    "method": "talked_down",
+   "how": "Kitty asked Annalee whether brainwashing the Power children was how she wished to honour the memory of her murdered children.",
    "evidence": "Kitty asks Annalee if this is how she wishes to honor the memory of her murdered children",
    "confidence": "medium"
   },
@@ -62,6 +66,7 @@
     "Masque (Earth-616)"
    ],
    "method": "other",
+   "how": "The synopsis only says Callisto entered the room and put a stop to Masque's attempt to make things worse.",
    "evidence": "Callisto enters the room and puts a stop to it",
    "confidence": "medium"
   },
@@ -73,6 +78,7 @@
     "Annalee (Earth-616)"
    ],
    "method": "talked_down",
+   "how": "Katie convinced Annalee there was plenty to live for and promised that she and her siblings would visit regularly, ending her challenge to Callisto.",
    "evidence": "Katie manages to convince Annalee that there is plenty to live for",
    "confidence": "medium"
   }

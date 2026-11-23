@@ -1,3 +1,3 @@
 {"defeats": [
- {"winners": ["Reed Richards (Earth-616)"], "losers": ["Benjamin Grimm (Earth-616)"], "method": "talked_down", "evidence": "Reed talks some sense into Ben, stating that he's mistaken the Surfer's intentions and has him apologize to the Surfer", "confidence": "medium"}
+ {"winners": ["Reed Richards (Earth-616)"], "losers": ["Benjamin Grimm (Earth-616)"], "method": "talked_down", "how": "Reed broke up the fight and talked sense into Ben, explaining he had mistaken the Surfer's intentions, and had him apologize.", "evidence": "Reed talks some sense into Ben, stating that he's mistaken the Surfer's intentions and has him apologize to the Surfer", "confidence": "medium"}
 ]}

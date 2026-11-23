@@ -1,3 +1,3 @@
 {"defeats": [
- {"winners": ["Sentinel 1 (Earth-616)"], "losers": ["Bolivar Trask (Earth-616)", "Charles Xavier (Earth-616)"], "method": "fight", "evidence": "Subduing Xavier and Trask", "confidence": "high"}
+ {"winners": ["Sentinel 1 (Earth-616)"], "losers": ["Bolivar Trask (Earth-616)", "Charles Xavier (Earth-616)"], "method": "fight", "how": "Sentinel #1 turned on Trask and stunned him with a ray beam, and the Sentinels subdued both Trask and Xavier.", "evidence": "Subduing Xavier and Trask", "confidence": "high"}
 ]}

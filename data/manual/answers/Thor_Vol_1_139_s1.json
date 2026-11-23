@@ -1,4 +1,4 @@
 {"defeats": [
- {"winners": ["Thor Odinson (Earth-616)"], "losers": ["Ulik (Earth-616)"], "method": "fight", "evidence": "Thor quickly knocks Ulik out before he can throw the switch", "confidence": "high"},
- {"winners": ["Thor Odinson (Earth-616)", "Odin Borson (Earth-616)"], "losers": ["Geirrodur (Earth-616)"], "method": "fight", "evidence": "Geirrodur agrees to surrender and complies with Thor's demand that the Rock Trolls return to their home", "confidence": "medium"}
+ {"winners": ["Thor Odinson (Earth-616)"], "losers": ["Ulik (Earth-616)"], "method": "fight", "how": "Having beaten Ulik in combat with the reclaimed hammer, Thor knocked him out before he could throw the switch to kill Orikal.", "evidence": "Thor quickly knocks Ulik out before he can throw the switch", "confidence": "high"},
+ {"winners": ["Thor Odinson (Earth-616)", "Odin Borson (Earth-616)"], "losers": ["Geirrodur (Earth-616)"], "method": "fight", "how": "Thor freed Orikal, which made the Rock Trolls' weapons useless and turned the battle, so Geirrodur surrendered and agreed to return home.", "evidence": "Geirrodur agrees to surrender and complies with Thor's demand that the Rock Trolls return to their home", "confidence": "medium"}
 ]}

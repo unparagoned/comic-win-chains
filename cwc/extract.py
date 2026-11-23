@@ -37,6 +37,7 @@ Do not record:
 For each defeat:
 - winners and losers are character IDs copied exactly from the character list. List every character who actively contributed to the win.
 - method: "fight" (beaten physically or with powers), "outsmarted" (tricked, trapped, out-thought), "talked_down" (persuaded or shamed into giving up), or "other".
+- how: one plain sentence (under 30 words) saying how the winner won, e.g. "Her squirrels chewed through the Doomship's wiring and tore at his armour until he fled into the sea." Use only what the synopsis says; do not add details from your own knowledge.
 - evidence: one short quote copied from the synopsis that shows the defeat.
 - confidence: "high" if the synopsis states it plainly, "medium" if it is implied, "low" if you are unsure.
 
@@ -53,10 +54,11 @@ SCHEMA = {
                     "winners": {"type": "array", "items": {"type": "string"}},
                     "losers": {"type": "array", "items": {"type": "string"}},
                     "method": {"type": "string", "enum": METHODS},
+                    "how": {"type": "string"},
                     "evidence": {"type": "string"},
                     "confidence": {"type": "string", "enum": ["high", "medium", "low"]},
                 },
-                "required": ["winners", "losers", "method", "evidence", "confidence"],
+                "required": ["winners", "losers", "method", "how", "evidence", "confidence"],
                 "additionalProperties": False,
             },
         }

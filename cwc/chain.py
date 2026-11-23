@@ -59,6 +59,7 @@ def load_edges(solo=False, methods=None, min_conf="low", main_only=False) -> lis
                             "with_help": helped,
                             "confidence": d["confidence"],
                             "evidence": d["evidence"],
+                            "how": d.get("how", ""),
                         }
                     )
     return edges
@@ -174,7 +175,10 @@ def main() -> None:
         helped = ", with help" if e["with_help"] else ""
         print(f"{i}. {labels.get(e['winner'], e['winner'])} beat {labels.get(e['loser'], e['loser'])}"
               f"  [{e['method']}{helped}, {e['confidence']} confidence]")
-        print(f"   {e['issue']}: \"{e['evidence']}\"")
+        print(f"   {e['issue']}")
+        if e["how"]:
+            print(f"   How: {e['how']}")
+        print(f"   Source: \"{e['evidence']}\"")
         print(f"   {e['url']}")
 
 

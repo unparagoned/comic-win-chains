@@ -1,3 +1,3 @@
 {"defeats": [
- {"winners": ["Elizabeth Ross (Earth-616)", "Vision (Earth-616)"], "losers": ["Bruce Banner (Earth-616)"], "method": "talked_down", "evidence": "the Vision can only free himself when Betty Banner talks the Hulk into calming down", "confidence": "medium"}
+ {"winners": ["Elizabeth Ross (Earth-616)", "Vision (Earth-616)"], "losers": ["Bruce Banner (Earth-616)"], "method": "talked_down", "how": "Betty talked the Hulk into calming down, letting the Vision, trapped inside, pull himself free; the Hulk then passed out and reverted to Banner.", "evidence": "the Vision can only free himself when Betty Banner talks the Hulk into calming down", "confidence": "medium"}
 ]}

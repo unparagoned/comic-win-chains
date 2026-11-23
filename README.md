@@ -8,7 +8,7 @@ Comics are inconsistent, so the win graph is full of loops. The question is how 
 
 1. **Fetch** issue pages from the [Marvel Database](https://marvel.fandom.com) wiki through its MediaWiki API (`cwc/wiki.py`).
 2. **Parse** each story into its synopsis and the characters actually present, with their wiki IDs such as `Peter Parker (Earth-616)`. Mentioned, vision and flashback appearances are dropped (`cwc/parse.py`).
-3. **Extract** "who beat whom" with Claude. The model picks winners and losers from that story's character list, and tags each defeat with a method (`fight`, `outsmarted`, `talked_down`, `other`), a confidence and a verbatim evidence quote (`cwc/extract.py`). IDs not in the list are dropped.
+3. **Extract** "who beat whom" with Claude. The model picks winners and losers from that story's character list, and tags each defeat with a method (`fight`, `outsmarted`, `talked_down`, `other`), a one-sentence "how", a confidence and a verbatim evidence quote (`cwc/extract.py`). IDs not in the list are dropped.
 4. **Chain**: a directed graph from winner to loser, with a shortest-path search (`cwc/chain.py`).
 
 ```sh
@@ -41,14 +41,23 @@ The sample is 18 well-known upset issues plus 85 random issues from ten flagship
 
 This first run did not use the API, because no key was available. It was done inside a Claude Code session (Claude Opus 5.5) using the same prompt, schema and validation, via `cwc/manual.py`. Every ID and every evidence quote was checked against its prompt file. `extracted_by` in each file records this.
 
-Sample chains:
+Sample chain:
 
 ```
-Squirrel Girl -> Doctor Doom   (Marvel Super-Heroes Vol 2 8, high)
-Doctor Doom   -> Beyonder      (Secret Wars Vol 1 10, medium: "Doom announces that the Beyonder is dead")
+Squirrel Girl beats Galactus in 3 step(s):
 
-Squirrel Girl -> Doctor Doom -> Mister Fantastic (FF 23, outsmarted) -> Galactus (FF 50, talked down)
+1. Squirrel Girl beat Doctor Doom  [fight, high confidence]
+   Marvel Super-Heroes Vol 2 8
+   How: Her squirrels chewed through the Doomship's wiring and attacked Doom, decimating his armour until he fled through a hatch and jumped into the water.
+2. Doctor Doom beat Mister Fantastic  [outsmarted, high confidence]
+   Fantastic Four Vol 1 23
+   How: Doom used a Thing robot to fire an FF signal flare, luring Reed into a trap where they captured him in an escape-proof container.
+3. Mister Fantastic beat Galactus  [talked_down, with help, high confidence]
+   Fantastic Four Vol 1 50
+   How: Johnny brought back the Ultimate Nullifier and Reed threatened to use it, so Galactus agreed to spare Earth and leave in exchange for the weapon.
 ```
+
+The "how" field was added in a second pass over the same 167 defeats, without changing them. For 30 of them the synopsis gives no real detail, and the sentence says so ("The synopsis only says...").
 
 ### Findings
 

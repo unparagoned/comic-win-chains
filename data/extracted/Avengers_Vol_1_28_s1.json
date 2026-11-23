@@ -14,6 +14,7 @@
     "Janet Van Dyne (Earth-616)"
    ],
    "method": "other",
+   "how": "The synopsis only says the Collector and the Beetle captured the Wasp.",
    "evidence": "The Wasp has been captured by the Collector and the Beetle.",
    "confidence": "high"
   },
@@ -29,6 +30,7 @@
     "Henry Pym (Earth-616)"
    ],
    "method": "outsmarted",
+   "how": "The Avengers entered the Collector's lair, got separated, and were captured one by one.",
    "evidence": "The Avengers enter the Collector's lair and get separated and captured",
    "confidence": "medium"
   },
@@ -45,6 +47,7 @@
     "Abner Jenkins (Earth-616)"
    ],
    "method": "fight",
+   "how": "Goliath escaped and freed the other Avengers, who rescued the Wasp and forced the Collector and the Beetle to flee in a time machine.",
    "evidence": "They rescue the Wasp and force the Collector to escape with the Beetle using a time machine.",
    "confidence": "high"
   }

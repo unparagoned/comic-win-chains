@@ -13,6 +13,7 @@
     "Brian Muldoon (Earth-616)"
    ],
    "method": "outsmarted",
+   "how": "Cap faked a mental breakdown to lure Muldoon in close, and quickly defeated him even though Muldoon got off a shot.",
    "evidence": "Although Muldoon does fire a shot, he is quickly defeated.",
    "confidence": "high"
   },
@@ -24,6 +25,7 @@
     "Manipulator (Robot) (Earth-616)"
    ],
    "method": "talked_down",
+   "how": "Cap pointed out that Muldoon's shot had exposed the Manipulator as an android; the shock made it shut down and fall on its face.",
    "evidence": "This revelation is a shock to the Manipulator and he shuts down and falls on his face.",
    "confidence": "medium"
   }

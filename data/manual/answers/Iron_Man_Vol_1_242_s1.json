@@ -1,4 +1,4 @@
 {"defeats": [
- {"winners": ["Anthony Stark (Earth-616)"], "losers": ["Mandarin (Earth-616)"], "method": "fight", "evidence": "The Mandarin slams into a concrete wall and is rendered insensate", "confidence": "high"},
- {"winners": ["Kathleen Dare (Earth-616)"], "losers": ["Anthony Stark (Earth-616)"], "method": "fight", "evidence": "She shoots him directly in the middle of the chest and leaves him for dead", "confidence": "high"}
+ {"winners": ["Anthony Stark (Earth-616)"], "losers": ["Mandarin (Earth-616)"], "method": "fight", "how": "With the Mandarin down to five rings, Iron Man went on the offense and battered him with pulse bursts into a concrete wall, knocking him out.", "evidence": "The Mandarin slams into a concrete wall and is rendered insensate", "confidence": "high"},
+ {"winners": ["Kathleen Dare (Earth-616)"], "losers": ["Anthony Stark (Earth-616)"], "method": "fight", "how": "Kathy Dare, waiting at his mansion, pulled a pistol and shot Tony in the middle of the chest, leaving him for dead.", "evidence": "She shoots him directly in the middle of the chest and leaves him for dead", "confidence": "high"}
 ]}

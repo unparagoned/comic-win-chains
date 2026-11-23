@@ -8,6 +8,7 @@
     "Jonathan Storm (Earth-616)"
    ],
    "method": "outsmarted",
+   "how": "Posing as a Maharajah gifting a fireproof car, Yogi Dakor lured the Torch into a trap, proved immune to his flame, and felled him with knockout gas.",
    "evidence": "is felled by knock out gas",
    "confidence": "high"
   },
@@ -19,6 +20,7 @@
     "Benjamin Grimm (Earth-616)"
    ],
    "method": "fight",
+   "how": "Bull Brogin used a device that briefly reverted Ben to human form, then quickly knocked him out and took him prisoner.",
    "evidence": "Grimm is quickly knocked out and taken prisoner",
    "confidence": "high"
   },
@@ -30,6 +32,7 @@
     "Susan Storm (Earth-616)"
    ],
    "method": "fight",
+   "how": "Phillips's Doom-given enhanced hearing let him track the invisible Sue by her movements and blast her with knockout gas.",
    "evidence": "Phillips is able to hear her movements and blast her with knock-out gas as well",
    "confidence": "high"
   },
@@ -41,6 +44,7 @@
     "Reed Richards (Earth-616)"
    ],
    "method": "outsmarted",
+   "how": "Doom used a Thing robot to fire an FF signal flare, luring Reed into a trap where they captured him in an escape-proof container.",
    "evidence": "both the Thing robot and Doom manage to capture him in an escape-proof container",
    "confidence": "high"
   },
@@ -54,6 +58,7 @@
     "Harry Phillips (Earth-616)"
    ],
    "method": "outsmarted",
+   "how": "Doom tricked the Terrible Trio into thinking they were being paid; their reward box spirited them off to another dimension.",
    "evidence": "Doom then tricks the Terrible Trio into thinking they are getting paid",
    "confidence": "high"
   },
@@ -68,6 +73,7 @@
     "Victor von Doom (Earth-616)"
    ],
    "method": "fight",
+   "how": "Sue pinned Doom with a force field near the portal; when he opened a window, the FF pulled him in and he fell through struggling with the Thing.",
    "evidence": "As Doom struggles with the Thing, he falls through the portal and into space.",
    "confidence": "high"
   }
