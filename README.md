@@ -89,4 +89,8 @@ The Batches API halves both. Run `python3 -m cwc.extract --limit 20` with a key,
 
 ## Licence and attribution
 
-Synopses and character data come from the Marvel Database on Fandom, under [CC BY-SA](https://www.fandom.com/licensing). Raw pages and full synopses are not committed (`data/raw/` and `data/stories/` are gitignored); the extracted files hold only short evidence quotes, with a link to each source page.
+- **Code:** MIT ([LICENSE](LICENSE)).
+- **Extracted win data:** CC BY-SA 4.0 ([DATA-LICENSE.md](DATA-LICENSE.md)).
+- **Corrections:** see [CONTRIBUTING.md](CONTRIBUTING.md).
+
+Synopses and character data come from the Marvel Database on Fandom, under [CC BY-SA](https://www.fandom.com/licensing). The site is at https://unparagoned.github.io/comic-win-chains/ once GitHub Pages is enabled. Raw pages and full synopses are not committed (`data/raw/` and `data/stories/` are gitignored); the extracted files hold only short evidence quotes, with a link to each source page.
