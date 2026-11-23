@@ -1,0 +1,9 @@
+{"defeats": [
+ {"winners": ["Jonathan Storm (Earth-616)"], "losers": ["Morris Bench (Earth-616)"], "method": "fight", "evidence": "Johnny increases his heat enough to turn his attacker into steam", "confidence": "medium"},
+ {"winners": ["Franklin Richards (Earth-616)"], "losers": ["Ulysses Klaw (Earth-616)"], "method": "fight", "evidence": "Franklin unleashes his mutant powers and sends him reeling with a psi-blast", "confidence": "medium"},
+ {"winners": ["Bentley Wittman (Earth-616)"], "losers": ["Reed Richards (Earth-616)"], "method": "fight", "evidence": "the Wizard, who manages to incapacitate him as they battle", "confidence": "high"},
+ {"winners": ["Bentley Wittman (Earth-616)"], "losers": ["Benjamin Grimm (Earth-616)"], "method": "fight", "evidence": "Ben rushes to Reed's aid, only to be blasted aside himself", "confidence": "low"},
+ {"winners": ["Sharon Ventura (Earth-616)", "Jonathan Storm (Earth-616)"], "losers": ["Mary MacPherran (Earth-616)", "Bentley Wittman (Earth-616)"], "method": "fight", "evidence": "Sharon sends Titania slamming into the Wizard", "confidence": "medium"},
+ {"winners": ["Reed Richards (Earth-616)", "Susan Storm (Earth-616)", "Jonathan Storm (Earth-616)", "Sharon Ventura (Earth-616)"], "losers": ["Bentley Wittman (Earth-616)", "Morris Bench (Earth-616)", "Mary MacPherran (Earth-616)", "Ulysses Klaw (Earth-616)"], "method": "fight", "evidence": "the Fantastic Four gain the edge and start taking down their foes one by one", "confidence": "medium"},
+ {"winners": ["Aron (Earth-616)"], "losers": ["Reed Richards (Earth-616)", "Susan Storm (Earth-616)", "Jonathan Storm (Earth-616)", "Sharon Ventura (Earth-616)"], "method": "fight", "evidence": "suddenly the four heroes are incapacitated by a mental bolt", "confidence": "medium"}
+]}

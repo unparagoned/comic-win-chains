@@ -1,0 +1,6 @@
+{"defeats": [
+ {"winners": ["Anna Marie LeBeau (Earth-616)"], "losers": ["Friedrich von Roehm (Earth-616)"], "method": "fight", "evidence": "before the feral mutant can attack her Rogue slams into him", "confidence": "low"},
+ {"winners": ["Rachel Summers (Earth-811)"], "losers": ["Anna Marie LeBeau (Earth-616)"], "method": "fight", "evidence": "she takes Rogue down with a psi-blast", "confidence": "high"},
+ {"winners": ["Selene Gallio (Earth-616)", "Hellfire Club (Earth-616)"], "losers": ["Rachel Summers (Earth-811)"], "method": "fight", "evidence": "Selene manages to encase her in animated Earth", "confidence": "high"},
+ {"winners": ["Harold Leland (Earth-616)"], "losers": ["Piotr Rasputin (Earth-616)"], "method": "fight", "evidence": "Henry Leland uses his gravitational powers to increase Colossus's mass and cause him to fall through the ground", "confidence": "medium"}
+]}

@@ -1,0 +1,20 @@
+{
+ "story_id": "Iron Man Vol 1 152 #s1",
+ "issue": "Iron Man Vol 1 152",
+ "url": "https://marvel.fandom.com/wiki/Iron_Man_Vol_1_152",
+ "extracted_by": "claude-code-session (manual run, Claude Opus 5.5)",
+ "dropped": 0,
+ "defeats": [
+  {
+   "winners": [
+    "Arthur Parks (Earth-616)"
+   ],
+   "losers": [
+    "Anthony Stark (Earth-616)"
+   ],
+   "method": "fight",
+   "evidence": "the Living Laser, who blasted him out of the sky",
+   "confidence": "high"
+  }
+ ]
+}

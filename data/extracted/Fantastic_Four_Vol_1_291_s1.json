@@ -1,0 +1,20 @@
+{
+ "story_id": "Fantastic Four Vol 1 291 #s1",
+ "issue": "Fantastic Four Vol 1 291",
+ "url": "https://marvel.fandom.com/wiki/Fantastic_Four_Vol_1_291",
+ "extracted_by": "claude-code-session (manual run, Claude Opus 5.5)",
+ "dropped": 0,
+ "defeats": [
+  {
+   "winners": [
+    "Susan Storm (Earth-616)"
+   ],
+   "losers": [
+    "Jennifer Walters (Earth-616)"
+   ],
+   "method": "fight",
+   "evidence": "She-Hulk tries to stop him but slams into one of Sue's invisible force fields",
+   "confidence": "high"
+  }
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "defeats": [
+  {
+   "winners": [
+    "Jeffrey Wilde (Earth-616)"
+   ],
+   "losers": [
+    "New York City Police Department (Earth-616)"
+   ],
+   "method": "fight",
+   "evidence": "Midnight comes crashing through the wall and begins fighting his way through the police officers",
+   "confidence": "medium"
+  },
+  {
+   "winners": [
+    "Peter Parker (Earth-616)",
+    "Christopher Powell (Earth-616)"
+   ],
+   "losers": [
+    "Jeffrey Wilde (Earth-616)"
+   ],
+   "method": "fight",
+   "evidence": "Spider-Man and Darkhawk take control of the situation and eventually pin Midnight to the wall",
+   "confidence": "medium"
+  }
+ ]
+}

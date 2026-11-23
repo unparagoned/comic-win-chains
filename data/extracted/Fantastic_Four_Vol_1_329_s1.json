@@ -1,0 +1,32 @@
+{
+ "story_id": "Fantastic Four Vol 1 329 #s1",
+ "issue": "Fantastic Four Vol 1 329",
+ "url": "https://marvel.fandom.com/wiki/Fantastic_Four_Vol_1_329",
+ "extracted_by": "claude-code-session (manual run, Claude Opus 5.5)",
+ "dropped": 0,
+ "defeats": [
+  {
+   "winners": [
+    "Bicephalous (Earth-616)"
+   ],
+   "losers": [
+    "Benjamin Grimm (Clone) (Earth-616)",
+    "Sharon Ventura (Clone) (Earth-616)"
+   ],
+   "method": "fight",
+   "evidence": "they find themselves knocked deeper into the realm of Subterranea",
+   "confidence": "medium"
+  },
+  {
+   "winners": [
+    "Reed Richards (Clone) (Earth-616)"
+   ],
+   "losers": [
+    "Harvey Elder (Earth-616)"
+   ],
+   "method": "outsmarted",
+   "evidence": "leaving the Mole Man and his minions to be buried alive",
+   "confidence": "low"
+  }
+ ]
+}

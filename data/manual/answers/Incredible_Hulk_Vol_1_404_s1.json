@@ -1,0 +1,6 @@
+{"defeats": [
+ {"winners": ["Bruce Banner (Earth-616)", "Cain Marko (Earth-616)"], "losers": ["Dane Whitman (Earth-616)", "Crystalia Amaquelin (Earth-616)", "Hercules Panhellenios (Earth-616)", "Sersi (Earth-616)"], "method": "fight", "evidence": "the Hulk and the Vision are the only two left standing", "confidence": "medium"},
+ {"winners": ["Bruce Banner (Earth-616)"], "losers": ["Cain Marko (Earth-616)"], "method": "fight", "evidence": "With the Juggernaut contained", "confidence": "medium"},
+ {"winners": ["Richard Jones (Earth-616)"], "losers": ["Keith Chandler (Earth-616)", "Ray Chandler (Earth-616)"], "method": "other", "evidence": "Rick kicks the Chandler brothers out", "confidence": "low"},
+ {"winners": ["Johann Shmidt (Earth-616)"], "losers": ["Doctor Perkins (Earth-932)"], "method": "fight", "evidence": "the Red Skull shoots him right between the eyes", "confidence": "high"}
+]}

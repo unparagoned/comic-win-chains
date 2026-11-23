@@ -1,0 +1,75 @@
+{
+ "defeats": [
+  {
+   "winners": [
+    "Yogi Dakor (Earth-616)"
+   ],
+   "losers": [
+    "Jonathan Storm (Earth-616)"
+   ],
+   "method": "outsmarted",
+   "evidence": "is felled by knock out gas",
+   "confidence": "high"
+  },
+  {
+   "winners": [
+    "Bull Brogin (Earth-616)"
+   ],
+   "losers": [
+    "Benjamin Grimm (Earth-616)"
+   ],
+   "method": "fight",
+   "evidence": "Grimm is quickly knocked out and taken prisoner",
+   "confidence": "high"
+  },
+  {
+   "winners": [
+    "Harry Phillips (Earth-616)"
+   ],
+   "losers": [
+    "Susan Storm (Earth-616)"
+   ],
+   "method": "fight",
+   "evidence": "Phillips is able to hear her movements and blast her with knock-out gas as well",
+   "confidence": "high"
+  },
+  {
+   "winners": [
+    "Victor von Doom (Earth-616)"
+   ],
+   "losers": [
+    "Reed Richards (Earth-616)"
+   ],
+   "method": "outsmarted",
+   "evidence": "both the Thing robot and Doom manage to capture him in an escape-proof container",
+   "confidence": "high"
+  },
+  {
+   "winners": [
+    "Victor von Doom (Earth-616)"
+   ],
+   "losers": [
+    "Bull Brogin (Earth-616)",
+    "Yogi Dakor (Earth-616)",
+    "Harry Phillips (Earth-616)"
+   ],
+   "method": "outsmarted",
+   "evidence": "Doom then tricks the Terrible Trio into thinking they are getting paid",
+   "confidence": "high"
+  },
+  {
+   "winners": [
+    "Reed Richards (Earth-616)",
+    "Susan Storm (Earth-616)",
+    "Benjamin Grimm (Earth-616)",
+    "Jonathan Storm (Earth-616)"
+   ],
+   "losers": [
+    "Victor von Doom (Earth-616)"
+   ],
+   "method": "fight",
+   "evidence": "As Doom struggles with the Thing, he falls through the portal and into space.",
+   "confidence": "high"
+  }
+ ]
+}

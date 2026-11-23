@@ -1,0 +1,27 @@
+{
+ "defeats": [
+  {
+   "winners": [
+    "Lois Franklin (Earth-616)"
+   ],
+   "losers": [
+    "Benjamin Urich (Earth-616)",
+    "Nicholas Manolis (Earth-616)"
+   ],
+   "method": "fight",
+   "evidence": "breaking Urich's fingers and beating Manolis nearly to death",
+   "confidence": "high"
+  },
+  {
+   "winners": [
+    "Lois Franklin (Earth-616)"
+   ],
+   "losers": [
+    "Nicholas Manolis (Earth-616)"
+   ],
+   "method": "fight",
+   "evidence": "Lois breaks into his room and strangles him",
+   "confidence": "high"
+  }
+ ]
+}

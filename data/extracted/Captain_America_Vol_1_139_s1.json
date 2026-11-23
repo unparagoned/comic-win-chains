@@ -1,0 +1,21 @@
+{
+ "story_id": "Captain America Vol 1 139 #s1",
+ "issue": "Captain America Vol 1 139",
+ "url": "https://marvel.fandom.com/wiki/Captain_America_Vol_1_139",
+ "extracted_by": "claude-code-session (manual run, Claude Opus 5.5)",
+ "dropped": 0,
+ "defeats": [
+  {
+   "winners": [
+    "Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)",
+    "Nicholas Fury (Earth-616)"
+   ],
+   "losers": [
+    "Samuel Wilson (Earth-616)"
+   ],
+   "method": "other",
+   "evidence": "he is suddenly captured by a strange force and taken aboard a hovering craft",
+   "confidence": "high"
+  }
+ ]
+}

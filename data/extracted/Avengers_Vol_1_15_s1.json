@@ -1,0 +1,34 @@
+{
+ "story_id": "Avengers Vol 1 15 #s1",
+ "issue": "Avengers Vol 1 15",
+ "url": "https://marvel.fandom.com/wiki/Avengers_Vol_1_15",
+ "extracted_by": "claude-code-session (manual run, Claude Opus 5.5)",
+ "dropped": 0,
+ "defeats": [
+  {
+   "winners": [
+    "Avengers (Earth-616)"
+   ],
+   "losers": [
+    "Amora (Earth-616)",
+    "Skurge (Earth-616)",
+    "Bruno Horgan (Earth-616)",
+    "Nathan Garrett (Earth-616)"
+   ],
+   "method": "fight",
+   "evidence": "the Avengers fight their way through the remaining villains",
+   "confidence": "low"
+  },
+  {
+   "winners": [
+    "Steven Rogers (Earth-616)"
+   ],
+   "losers": [
+    "Heinrich Zemo (Earth-616)"
+   ],
+   "method": "fight",
+   "evidence": "Zemo’s weapon strikes the rocks, triggering a collapse that buries the villain",
+   "confidence": "medium"
+  }
+ ]
+}

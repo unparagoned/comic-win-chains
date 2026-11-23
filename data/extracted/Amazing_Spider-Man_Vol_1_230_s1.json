@@ -1,0 +1,20 @@
+{
+ "story_id": "Amazing Spider-Man Vol 1 230 #s1",
+ "issue": "Amazing Spider-Man Vol 1 230",
+ "url": "https://marvel.fandom.com/wiki/Amazing_Spider-Man_Vol_1_230",
+ "extracted_by": "claude-code-session (manual run, Claude Opus 5.5)",
+ "dropped": 0,
+ "defeats": [
+  {
+   "winners": [
+    "Peter Parker (Earth-616)"
+   ],
+   "losers": [
+    "Cain Marko (Earth-616)"
+   ],
+   "method": "outsmarted",
+   "evidence": "Spider-Man tricks him into wandering out into onto the wet concrete of a new building foundation",
+   "confidence": "high"
+  }
+ ]
+}

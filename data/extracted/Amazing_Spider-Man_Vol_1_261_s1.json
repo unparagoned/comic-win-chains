@@ -1,0 +1,31 @@
+{
+ "story_id": "Amazing Spider-Man Vol 1 261 #s1",
+ "issue": "Amazing Spider-Man Vol 1 261",
+ "url": "https://marvel.fandom.com/wiki/Amazing_Spider-Man_Vol_1_261",
+ "extracted_by": "claude-code-session (manual run, Claude Opus 5.5)",
+ "dropped": 0,
+ "defeats": [
+  {
+   "winners": [
+    "Roderick Kingsley (Earth-616)"
+   ],
+   "losers": [
+    "Harold Osborn (Earth-616)"
+   ],
+   "method": "fight",
+   "evidence": "the Hobgoblin attacks Harry, knocking him out",
+   "confidence": "high"
+  },
+  {
+   "winners": [
+    "Roderick Kingsley (Earth-616)"
+   ],
+   "losers": [
+    "Peter Parker (Earth-616)"
+   ],
+   "method": "fight",
+   "evidence": "Spider-Man revives and hears Liz screaming",
+   "confidence": "low"
+  }
+ ]
+}

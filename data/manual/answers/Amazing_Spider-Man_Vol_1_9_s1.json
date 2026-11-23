@@ -1,0 +1,26 @@
+{
+ "defeats": [
+  {
+   "winners": [
+    "Maxwell Dillon (Earth-616)"
+   ],
+   "losers": [
+    "Peter Parker (Earth-616)"
+   ],
+   "method": "fight",
+   "evidence": "when he finally finds him, Electro defeats him",
+   "confidence": "high"
+  },
+  {
+   "winners": [
+    "Peter Parker (Earth-616)"
+   ],
+   "losers": [
+    "Maxwell Dillon (Earth-616)"
+   ],
+   "method": "fight",
+   "evidence": "Spider-Man finally defeats Electro with a fire hose",
+   "confidence": "high"
+  }
+ ]
+}

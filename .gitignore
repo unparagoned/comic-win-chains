@@ -1,0 +1,7 @@
+__pycache__/
+.venv/
+.DS_Store
+# Full wiki page text and synopses: re-created by `python -m cwc.prepare`
+data/raw/
+data/stories/
+data/manual/prompts/

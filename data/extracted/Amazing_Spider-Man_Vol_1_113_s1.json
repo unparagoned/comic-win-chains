@@ -1,0 +1,31 @@
+{
+ "story_id": "Amazing Spider-Man Vol 1 113 #s1",
+ "issue": "Amazing Spider-Man Vol 1 113",
+ "url": "https://marvel.fandom.com/wiki/Amazing_Spider-Man_Vol_1_113",
+ "extracted_by": "claude-code-session (manual run, Claude Opus 5.5)",
+ "dropped": 0,
+ "defeats": [
+  {
+   "winners": [
+    "Otto Octavius (Earth-616)"
+   ],
+   "losers": [
+    "Peter Parker (Earth-616)"
+   ],
+   "method": "other",
+   "evidence": "Peter is suddenly struck by painful cramps and has to flee the fight",
+   "confidence": "low"
+  },
+  {
+   "winners": [
+    "Peter Parker (Earth-616)"
+   ],
+   "losers": [
+    "Otto Octavius (Earth-616)"
+   ],
+   "method": "fight",
+   "evidence": "Spider-Man gets the needed boost to defeat Dr. Octopus",
+   "confidence": "high"
+  }
+ ]
+}

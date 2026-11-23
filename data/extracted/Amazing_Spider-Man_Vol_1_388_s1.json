@@ -1,0 +1,42 @@
+{
+ "story_id": "Amazing Spider-Man Vol 1 388 #s1",
+ "issue": "Amazing Spider-Man Vol 1 388",
+ "url": "https://marvel.fandom.com/wiki/Amazing_Spider-Man_Vol_1_388",
+ "extracted_by": "claude-code-session (manual run, Claude Opus 5.5)",
+ "dropped": 0,
+ "defeats": [
+  {
+   "winners": [
+    "Mary Parker (Simulacrum) (Earth-616)"
+   ],
+   "losers": [
+    "Richard Parker (Simulacrum) (Earth-616)"
+   ],
+   "method": "fight",
+   "evidence": "\"Mary\" tosses a live wire at her \"husband\", shorting him out",
+   "confidence": "high"
+  },
+  {
+   "winners": [
+    "Adrian Toomes (Earth-616)"
+   ],
+   "losers": [
+    "Mary Parker (Simulacrum) (Earth-616)"
+   ],
+   "method": "fight",
+   "evidence": "the Vulture uses the Juvinator device to absorb the artificial life force from \"Mary's\" body",
+   "confidence": "high"
+  },
+  {
+   "winners": [
+    "Peter Parker (Earth-616)"
+   ],
+   "losers": [
+    "Adrian Toomes (Earth-616)"
+   ],
+   "method": "fight",
+   "evidence": "Spider-Man strikes the Vulture, knocking him out",
+   "confidence": "high"
+  }
+ ]
+}

@@ -1,0 +1,32 @@
+{
+ "story_id": "Daredevil Vol 1 230 #s1",
+ "issue": "Daredevil Vol 1 230",
+ "url": "https://marvel.fandom.com/wiki/Daredevil_Vol_1_230",
+ "extracted_by": "claude-code-session (manual run, Claude Opus 5.5)",
+ "dropped": 0,
+ "defeats": [
+  {
+   "winners": [
+    "Lois Franklin (Earth-616)"
+   ],
+   "losers": [
+    "Benjamin Urich (Earth-616)",
+    "Nicholas Manolis (Earth-616)"
+   ],
+   "method": "fight",
+   "evidence": "breaking Urich's fingers and beating Manolis nearly to death",
+   "confidence": "high"
+  },
+  {
+   "winners": [
+    "Lois Franklin (Earth-616)"
+   ],
+   "losers": [
+    "Nicholas Manolis (Earth-616)"
+   ],
+   "method": "fight",
+   "evidence": "Lois breaks into his room and strangles him",
+   "confidence": "high"
+  }
+ ]
+}

@@ -1,0 +1,5 @@
+{"defeats": [
+ {"winners": ["Anthony Stark (Earth-616)", "Kevin O'Brien (Earth-616)"], "losers": ["Smashers (Earth-616)"], "method": "fight", "evidence": "uses a stun ray he has built to help end the confrontation peacefully", "confidence": "medium"},
+ {"winners": ["Bullwhip Grogan (Earth-616)"], "losers": ["Kevin O'Brien (Earth-616)", "Kathy Ffoulkes (Earth-616)"], "method": "fight", "evidence": "O'Brian and Kathy catch Smasher leader Bullwhip Grogan planting a bomb, but are taken hostage", "confidence": "high"},
+ {"winners": ["Anthony Stark (Earth-616)"], "losers": ["Bullwhip Grogan (Earth-616)", "Don Bowers (Earth-616)"], "method": "fight", "evidence": "Iron Man brings it down, freeing the hostages and capturing Grogan and Mastermind", "confidence": "high"}
+]}

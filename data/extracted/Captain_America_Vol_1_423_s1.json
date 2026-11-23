@@ -1,0 +1,20 @@
+{
+ "story_id": "Captain America Vol 1 423 #s1",
+ "issue": "Captain America Vol 1 423",
+ "url": "https://marvel.fandom.com/wiki/Captain_America_Vol_1_423",
+ "extracted_by": "claude-code-session (manual run, Claude Opus 5.5)",
+ "dropped": 0,
+ "defeats": [
+  {
+   "winners": [
+    "Namor McKenzie (Earth-616)"
+   ],
+   "losers": [
+    "Franklin Delano Roosevelt (Earth-616)"
+   ],
+   "method": "other",
+   "evidence": "Namor kidnaps President Roosevelt",
+   "confidence": "high"
+  }
+ ]
+}

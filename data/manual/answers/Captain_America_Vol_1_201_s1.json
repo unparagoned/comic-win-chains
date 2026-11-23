@@ -1,0 +1,27 @@
+{
+ "defeats": [
+  {
+   "winners": [
+    "Brother Peach Pie (Earth-616)",
+    "Brother Harmony (Earth-616)"
+   ],
+   "losers": [
+    "Leila Taylor (Earth-616)"
+   ],
+   "method": "other",
+   "evidence": "Realizing she knows the Falcon, they abduct her",
+   "confidence": "high"
+  },
+  {
+   "winners": [
+    "Night People (Earth-616)"
+   ],
+   "losers": [
+    "Samuel Wilson (Earth-616)"
+   ],
+   "method": "outsmarted",
+   "evidence": "Immediately captured and taken to the \"Inquisition.\"",
+   "confidence": "high"
+  }
+ ]
+}

@@ -1,0 +1,5 @@
+{"defeats": [
+ {"winners": ["Thor Odinson (Earth-616)"], "losers": ["Carl Creel (Earth-616)"], "method": "fight", "evidence": "Thor manages to defeat him by knocking him into the lake", "confidence": "high"},
+ {"winners": ["Thor Odinson (Earth-616)"], "losers": ["Satan (Dog) (Earth-616)", "Diablo (Dog) (Earth-616)"], "method": "fight", "evidence": "Thor defeats the dogs", "confidence": "high"},
+ {"winners": ["Thor Odinson (Earth-616)"], "losers": ["Loki Laufeyson (Earth-616)"], "method": "fight", "evidence": "Thor manages to defeat Loki with a lightning strike", "confidence": "high"}
+]}

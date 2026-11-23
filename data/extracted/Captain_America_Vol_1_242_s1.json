@@ -1,0 +1,31 @@
+{
+ "story_id": "Captain America Vol 1 242 #s1",
+ "issue": "Captain America Vol 1 242",
+ "url": "https://marvel.fandom.com/wiki/Captain_America_Vol_1_242",
+ "extracted_by": "claude-code-session (manual run, Claude Opus 5.5)",
+ "dropped": 0,
+ "defeats": [
+  {
+   "winners": [
+    "Steven Rogers (Earth-616)"
+   ],
+   "losers": [
+    "Brian Muldoon (Earth-616)"
+   ],
+   "method": "outsmarted",
+   "evidence": "Although Muldoon does fire a shot, he is quickly defeated.",
+   "confidence": "high"
+  },
+  {
+   "winners": [
+    "Steven Rogers (Earth-616)"
+   ],
+   "losers": [
+    "Manipulator (Robot) (Earth-616)"
+   ],
+   "method": "talked_down",
+   "evidence": "This revelation is a shock to the Manipulator and he shuts down and falls on his face.",
+   "confidence": "medium"
+  }
+ ]
+}

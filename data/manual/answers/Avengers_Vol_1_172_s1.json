@@ -1,0 +1,45 @@
+{
+ "defeats": [
+  {
+   "winners": [
+    "Clinton Barton (Earth-616)"
+   ],
+   "losers": [
+    "Henry Gyrich (Earth-616)"
+   ],
+   "method": "other",
+   "evidence": "he captured an \"intruder\": Gyrich",
+   "confidence": "medium"
+  },
+  {
+   "winners": [
+    "Vision (Earth-616)",
+    "Wanda Maximoff (Earth-616)",
+    "Simon Williams (Earth-616)",
+    "Clinton Barton (Earth-616)",
+    "Carol Danvers (Earth-616)"
+   ],
+   "losers": [
+    "Tyrak (Earth-616)"
+   ],
+   "method": "fight",
+   "evidence": "The heroes beat Tyrak when Vision uses his solar beams to dehydrate him",
+   "confidence": "high"
+  },
+  {
+   "winners": [
+    "Taneleer Tivan (Earth-616)"
+   ],
+   "losers": [
+    "Vision (Earth-616)",
+    "Steven Rogers (Earth-616)",
+    "Jocasta Pym (Earth-616)",
+    "Pietro Maximoff (Earth-616)",
+    "Heather Douglas (Earth-616)"
+   ],
+   "method": "other",
+   "evidence": "This unseen villain is shown to have all the kidnapped Avengers (as well as Moondragon, who hadn't been shown to be kidnapped) in suspended animation tubes",
+   "confidence": "low"
+  }
+ ]
+}

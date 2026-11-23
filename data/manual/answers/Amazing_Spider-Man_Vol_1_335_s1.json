@@ -1,0 +1,26 @@
+{
+ "defeats": [
+  {
+   "winners": [
+    "Otto Octavius (Earth-616)"
+   ],
+   "losers": [
+    "Jason Macendale Jr. (Earth-616)"
+   ],
+   "method": "fight",
+   "evidence": "Doctor Octopus threatens to snap his neck before the flames can reach his physical body",
+   "confidence": "low"
+  },
+  {
+   "winners": [
+    "Peter Parker (Earth-616)"
+   ],
+   "losers": [
+    "Herman Schultz (Earth-616)"
+   ],
+   "method": "outsmarted",
+   "evidence": "causing the Shocker to slip up enough to be webbed up by Spider-Man",
+   "confidence": "high"
+  }
+ ]
+}

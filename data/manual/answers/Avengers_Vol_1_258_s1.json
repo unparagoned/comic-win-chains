@@ -1,0 +1,26 @@
+{
+ "defeats": [
+  {
+   "winners": [
+    "Peter Parker (Earth-616)"
+   ],
+   "losers": [
+    "Pyreus Kril (Earth-616)"
+   ],
+   "method": "fight",
+   "evidence": "find the former herald of Galactus already defeated by Spider-Man",
+   "confidence": "high"
+  },
+  {
+   "winners": [
+    "Hercules Panhellenios (Earth-616)"
+   ],
+   "losers": [
+    "Pyreus Kril (Earth-616)"
+   ],
+   "method": "other",
+   "evidence": "his past ally Hercules is able to restrain him from further destruction",
+   "confidence": "medium"
+  }
+ ]
+}

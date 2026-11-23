@@ -1,0 +1,13 @@
+{"defeats": [
+ {"winners": ["Thanos (Earth-616)"], "losers": ["Eric Masterson (Earth-616)", "Namor McKenzie (Earth-616)", "Pyreus Kril (Earth-616)", "Anthony Stark (Earth-616)"], "method": "other", "evidence": "Thanos freezes Thor, Namor, Firelord and Iron Man's attacks as well as everyone else in time", "confidence": "medium"},
+ {"winners": ["Thanos (Earth-616)"], "losers": ["Arthur Douglas (Earth-616)", "Bruce Banner (Earth-616)"], "method": "fight", "evidence": "They are both quickly subdued by Thanos", "confidence": "high"},
+ {"winners": ["Thanos (Earth-616)"], "losers": ["Namor McKenzie (Earth-616)", "Jennifer Walters (Earth-616)"], "method": "fight", "evidence": "causes something to grow on both superheroes, that envelops and kills them", "confidence": "high"},
+ {"winners": ["Thanos (Earth-616)"], "losers": ["Victor von Doom (Earth-616)"], "method": "fight", "evidence": "Doom however pays the price of such treachery by being struck by the Gauntlet, burning his suit and sending him flying", "confidence": "high"},
+ {"winners": ["Thanos (Earth-616)"], "losers": ["Eric Masterson (Earth-616)"], "method": "fight", "evidence": "Thanos overpowers him and flings Thor away", "confidence": "high"},
+ {"winners": ["Thanos (Earth-616)"], "losers": ["Pyreus Kril (Earth-616)", "James Howlett (Earth-616)"], "method": "fight", "evidence": "who defeats both by hurling Firelord brutally into a wall and turning Wolverine's adamantium skeleton into rubber", "confidence": "high"},
+ {"winners": ["Thanos (Earth-616)"], "losers": ["Victor von Doom (Earth-616)"], "method": "fight", "evidence": "presumably proceeding to deal with Doom", "confidence": "low"},
+ {"winners": ["Thanos (Earth-616)"], "losers": ["Wanda Maximoff (Earth-616)"], "method": "fight", "evidence": "she is easily overpowered by Thanos and killed", "confidence": "high"},
+ {"winners": ["Thanos (Earth-616)"], "losers": ["Scott Summers (Earth-616)"], "method": "fight", "evidence": "Thanos envelops the mutant's head in a clear block of force that cuts off his oxygen and begins slowly killing Cyclops", "confidence": "high"},
+ {"winners": ["Thanos (Earth-616)"], "losers": ["Vision (Earth-616)"], "method": "fight", "evidence": "Thanos has learnt his lesson and manages to destroy him", "confidence": "high"},
+ {"winners": ["Thanos (Earth-616)"], "losers": ["Tyrone Johnson (Earth-616)"], "method": "fight", "evidence": "is unable to imprison Thanos and Cloak dies in a massive explosion", "confidence": "medium"}
+]}

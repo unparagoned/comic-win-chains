@@ -1,0 +1,32 @@
+{
+ "story_id": "Avengers Vol 1 65 #s1",
+ "issue": "Avengers Vol 1 65",
+ "url": "https://marvel.fandom.com/wiki/Avengers_Vol_1_65",
+ "extracted_by": "claude-code-session (manual run, Claude Opus 5.5)",
+ "dropped": 0,
+ "defeats": [
+  {
+   "winners": [
+    "Jacques DuQuesne (Earth-616)"
+   ],
+   "losers": [
+    "Clinton Barton (Earth-616)"
+   ],
+   "method": "fight",
+   "evidence": "The Swordsman defeats Goliath and captures him",
+   "confidence": "high"
+  },
+  {
+   "winners": [
+    "Clinton Barton (Earth-616)"
+   ],
+   "losers": [
+    "Jacques DuQuesne (Earth-616)",
+    "Elihas Starr (Earth-616)"
+   ],
+   "method": "fight",
+   "evidence": "Goliath regains consciousness and easily defeats the two crooks",
+   "confidence": "high"
+  }
+ ]
+}

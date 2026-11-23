@@ -1,0 +1,47 @@
+{
+ "story_id": "Fantastic Four Vol 1 206 #s1",
+ "issue": "Fantastic Four Vol 1 206",
+ "url": "https://marvel.fandom.com/wiki/Fantastic_Four_Vol_1_206",
+ "extracted_by": "claude-code-session (manual run, Claude Opus 5.5)",
+ "dropped": 0,
+ "defeats": [
+  {
+   "winners": [
+    "Jaketch (Earth-616)"
+   ],
+   "losers": [
+    "Reed Richards (Earth-616)",
+    "Benjamin Grimm (Earth-616)",
+    "Susan Storm (Earth-616)"
+   ],
+   "method": "fight",
+   "evidence": "Sue meets the same fate as her colleagues",
+   "confidence": "high"
+  },
+  {
+   "winners": [
+    "Richard Rider (Earth-616)"
+   ],
+   "losers": [
+    "Skrull Imperial Starfleet (Earth-616)"
+   ],
+   "method": "fight",
+   "evidence": "a Terran spaceship has destroyed all the Skrull forces that were sent in pursuit",
+   "confidence": "low"
+  },
+  {
+   "winners": [
+    "Richard Rider (Earth-616)",
+    "Rieg Davan (Earth-616)"
+   ],
+   "losers": [
+    "Reed Richards (Earth-616)",
+    "Susan Storm (Earth-616)",
+    "Benjamin Grimm (Earth-616)"
+   ],
+   "method": "fight",
+   "evidence": "Nova’s ship responds by apparently blowing the Skrull ship apart",
+   "confidence": "low"
+  }
+ ]
+}

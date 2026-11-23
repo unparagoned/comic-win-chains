@@ -1,0 +1,31 @@
+{
+ "story_id": "Amazing Spider-Man Vol 1 94 #s1",
+ "issue": "Amazing Spider-Man Vol 1 94",
+ "url": "https://marvel.fandom.com/wiki/Amazing_Spider-Man_Vol_1_94",
+ "extracted_by": "claude-code-session (manual run, Claude Opus 5.5)",
+ "dropped": 0,
+ "defeats": [
+  {
+   "winners": [
+    "Abner Jenkins (Earth-616)"
+   ],
+   "losers": [
+    "Maybelle Parker (Earth-616)"
+   ],
+   "method": "other",
+   "evidence": "Aunt May has been kidnapped by the Beetle while she was out doing groceries",
+   "confidence": "low"
+  },
+  {
+   "winners": [
+    "Peter Parker (Earth-616)"
+   ],
+   "losers": [
+    "Abner Jenkins (Earth-616)"
+   ],
+   "method": "fight",
+   "evidence": "Spider-Man manages to defeat his foe when he tosses the Beetle into a nearby swimming pool",
+   "confidence": "high"
+  }
+ ]
+}

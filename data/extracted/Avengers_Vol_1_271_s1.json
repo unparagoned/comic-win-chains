@@ -1,0 +1,23 @@
+{
+ "story_id": "Avengers Vol 1 271 #s1",
+ "issue": "Avengers Vol 1 271",
+ "url": "https://marvel.fandom.com/wiki/Avengers_Vol_1_271",
+ "extracted_by": "claude-code-session (manual run, Claude Opus 5.5)",
+ "dropped": 0,
+ "defeats": [
+  {
+   "winners": [
+    "Janet Van Dyne (Earth-616)",
+    "Paladin (Earth-616)",
+    "Dane Whitman (Earth-616)"
+   ],
+   "losers": [
+    "Melissa Gold (Earth-616)",
+    "Paul Duval (Earth-616)"
+   ],
+   "method": "fight",
+   "evidence": "with help from the Black Knight they capture Mimi and the Grey Gargoyle",
+   "confidence": "high"
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "story_id": "G.L.A. Vol 1 4 #s1",
+ "issue": "G.L.A. Vol 1 4",
+ "url": "https://marvel.fandom.com/wiki/G.L.A._Vol_1_4",
+ "extracted_by": "claude-code-session (manual run, Claude Opus 5.5)",
+ "dropped": 0,
+ "defeats": [
+  {
+   "winners": [
+    "Gene Lorrene (Earth-616)"
+   ],
+   "losers": [
+    "Monkey Joe (Earth-616)"
+   ],
+   "method": "fight",
+   "evidence": "Leather Boy attacked the headquarters and killed Mister Immortal and Monkey Joe",
+   "confidence": "low"
+  }
+ ]
+}

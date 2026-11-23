@@ -1,0 +1,26 @@
+{
+ "defeats": [
+  {
+   "winners": [
+    "Roderick Kingsley (Earth-616)"
+   ],
+   "losers": [
+    "Harold Osborn (Earth-616)"
+   ],
+   "method": "fight",
+   "evidence": "the Hobgoblin attacks Harry, knocking him out",
+   "confidence": "high"
+  },
+  {
+   "winners": [
+    "Roderick Kingsley (Earth-616)"
+   ],
+   "losers": [
+    "Peter Parker (Earth-616)"
+   ],
+   "method": "fight",
+   "evidence": "Spider-Man revives and hears Liz screaming",
+   "confidence": "low"
+  }
+ ]
+}

@@ -1,0 +1,5 @@
+{"defeats": [
+ {"winners": ["Doreen Green (Earth-616)"], "losers": ["Anthony Stark (Earth-616)"], "method": "fight", "evidence": "shutting down Iron Man's flight system. Iron Man makes a rough landing", "confidence": "low"},
+ {"winners": ["Victor von Doom (Earth-616)"], "losers": ["Anthony Stark (Earth-616)", "Doreen Green (Earth-616)"], "method": "fight", "evidence": "knocks Iron Man out with his ray gun", "confidence": "high"},
+ {"winners": ["Doreen Green (Earth-616)"], "losers": ["Victor von Doom (Earth-616)"], "method": "fight", "evidence": "Despite praising Squirrel Girl for her victory against Doctor Doom", "confidence": "high"}
+]}

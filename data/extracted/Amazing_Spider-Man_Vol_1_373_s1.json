@@ -1,0 +1,53 @@
+{
+ "story_id": "Amazing Spider-Man Vol 1 373 #s1",
+ "issue": "Amazing Spider-Man Vol 1 373",
+ "url": "https://marvel.fandom.com/wiki/Amazing_Spider-Man_Vol_1_373",
+ "extracted_by": "claude-code-session (manual run, Claude Opus 5.5)",
+ "dropped": 0,
+ "defeats": [
+  {
+   "winners": [
+    "Charles Shaddock (Earth-616)"
+   ],
+   "losers": [
+    "Richard Parker (Simulacrum) (Earth-616)"
+   ],
+   "method": "fight",
+   "evidence": "He tries to subdue Shaddock, only to be caught in a headlock",
+   "confidence": "high"
+  },
+  {
+   "winners": [
+    "Peter Parker (Earth-616)"
+   ],
+   "losers": [
+    "Charles Shaddock (Earth-616)"
+   ],
+   "method": "fight",
+   "evidence": "Peter quickly knocks Shaddock out, ending his threat",
+   "confidence": "high"
+  },
+  {
+   "winners": [
+    "Alistaire Smythe (Earth-616)"
+   ],
+   "losers": [
+    "Peter Parker (Earth-616)"
+   ],
+   "method": "fight",
+   "evidence": "Smythe is able to subdue Spider-Man",
+   "confidence": "high"
+  },
+  {
+   "winners": [
+    "Peter Parker (Earth-616)"
+   ],
+   "losers": [
+    "Alistaire Smythe (Earth-616)"
+   ],
+   "method": "fight",
+   "evidence": "knock him out with a few quick, yet powerful blows",
+   "confidence": "high"
+  }
+ ]
+}

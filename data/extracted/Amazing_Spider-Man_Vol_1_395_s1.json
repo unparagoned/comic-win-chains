@@ -1,0 +1,53 @@
+{
+ "story_id": "Amazing Spider-Man Vol 1 395 #s1",
+ "issue": "Amazing Spider-Man Vol 1 395",
+ "url": "https://marvel.fandom.com/wiki/Amazing_Spider-Man_Vol_1_395",
+ "extracted_by": "claude-code-session (manual run, Claude Opus 5.5)",
+ "dropped": 0,
+ "defeats": [
+  {
+   "winners": [
+    "Angela Cairn (Earth-616)"
+   ],
+   "losers": [
+    "Clifford White (Earth-616)"
+   ],
+   "method": "fight",
+   "evidence": "Nocturne uses her empathic powers to make him feel the agony of those of the drug addicts he preys upon them",
+   "confidence": "high"
+  },
+  {
+   "winners": [
+    "Angela Cairn (Earth-616)"
+   ],
+   "losers": [
+    "Thomas Fireheart (Earth-616)"
+   ],
+   "method": "talked_down",
+   "evidence": "Nocturne manages to convince him to stop",
+   "confidence": "medium"
+  },
+  {
+   "winners": [
+    "Peter Parker (Earth-616)"
+   ],
+   "losers": [
+    "Thomas Fireheart (Earth-616)"
+   ],
+   "method": "fight",
+   "evidence": "After fighting off the Puma",
+   "confidence": "medium"
+  },
+  {
+   "winners": [
+    "Thomas Fireheart (Earth-616)"
+   ],
+   "losers": [
+    "Angela Cairn (Earth-616)"
+   ],
+   "method": "fight",
+   "evidence": "Nocturne gets in the way and is slashed across the face",
+   "confidence": "medium"
+  }
+ ]
+}

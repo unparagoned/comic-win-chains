@@ -1,0 +1,27 @@
+{
+ "defeats": [
+  {
+   "winners": [
+    "Steven Rogers (Earth-616)"
+   ],
+   "losers": [
+    "Samuel Wilson (Earth-616)"
+   ],
+   "method": "fight",
+   "evidence": "Falcon tries to escape but Captain America stops him",
+   "confidence": "medium"
+  },
+  {
+   "winners": [
+    "Steven Rogers (Earth-616)",
+    "Samuel Wilson (Earth-616)"
+   ],
+   "losers": [
+    "Wilbur Day (Earth-616)"
+   ],
+   "method": "fight",
+   "evidence": "The heroes eventually manage to topple Stilt-Man and defeat him",
+   "confidence": "high"
+  }
+ ]
+}

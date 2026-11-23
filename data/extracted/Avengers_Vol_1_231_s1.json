@@ -1,0 +1,33 @@
+{
+ "story_id": "Avengers Vol 1 231 #s1",
+ "issue": "Avengers Vol 1 231",
+ "url": "https://marvel.fandom.com/wiki/Avengers_Vol_1_231",
+ "extracted_by": "claude-code-session (manual run, Claude Opus 5.5)",
+ "dropped": 0,
+ "defeats": [
+  {
+   "winners": [
+    "Jasper Sitwell (Plant Imposter) (Earth-616)",
+    "Samuel Smithers (Earth-616)"
+   ],
+   "losers": [
+    "Nicholas Fury (Earth-616)",
+    "Ronald Reagan (Earth-616)"
+   ],
+   "method": "outsmarted",
+   "evidence": "Nick Fury and President Ronald Reagan are taken prisoner by doubles who have replaced the S.H.I.E.L.D. agents assigned to the installation",
+   "confidence": "medium"
+  },
+  {
+   "winners": [
+    "Avengers (Earth-616)"
+   ],
+   "losers": [
+    "Jasper Sitwell (Plant Imposter) (Earth-616)"
+   ],
+   "method": "fight",
+   "evidence": "The Avengers are called in and swiftly attack the base",
+   "confidence": "low"
+  }
+ ]
+}

@@ -1,0 +1,4 @@
+{"defeats": [
+ {"winners": ["X-Men (Earth-616)", "Warren Worthington III (Earth-616)", "Jean Grey (Earth-616)", "Scott Summers (Earth-616)", "Robert Drake (Earth-616)"], "losers": ["Demi-Men (Earth-616)"], "method": "fight", "evidence": "the X-Men manage to defeat the Demi-Men", "confidence": "high"},
+ {"winners": ["Mesmero (Vincent) (Earth-616)"], "losers": ["Robert Drake (Earth-616)"], "method": "fight", "evidence": "he is easily overcome by Mesmero's mutant hypnotism", "confidence": "high"}
+]}

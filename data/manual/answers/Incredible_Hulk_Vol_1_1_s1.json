@@ -1,0 +1,5 @@
+{"defeats": [
+ {"winners": ["Bruce Banner (Earth-616)"], "losers": ["Igor Drenkov (Earth-616)"], "method": "fight", "evidence": "He picks up Igor and slams him down on a lab bench", "confidence": "high"},
+ {"winners": ["Yuri Topolov (Earth-616)"], "losers": ["Bruce Banner (Earth-616)", "Richard Jones (Earth-616)"], "method": "fight", "evidence": "The Gargoyle shoots the Hulk and Jones with drug-filled bullets, making them like robots", "confidence": "high"},
+ {"winners": ["Bruce Banner (Earth-616)"], "losers": ["Yuri Topolov (Earth-616)"], "method": "other", "evidence": "Banner treats him with radiation, which makes him look normal but takes away his super intelligence", "confidence": "low"}
+]}

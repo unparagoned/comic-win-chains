@@ -1,0 +1,5 @@
+{"defeats": [
+ {"winners": ["Rachel Summers (Earth-811)"], "losers": ["Selene Gallio (Earth-616)"], "method": "fight", "evidence": "Rachel manages to fight her off and flee into a nightclub", "confidence": "medium"},
+ {"winners": ["Selene Gallio (Earth-616)"], "losers": ["Nicholas Damiano (Earth-616)"], "method": "fight", "evidence": "Selene has drained his life force away, leaving him a burned-out husk", "confidence": "medium"},
+ {"winners": ["Charles Xavier (Earth-616)", "X-Men (Earth-616)", "Anna Marie LeBeau (Earth-616)", "Piotr Rasputin (Earth-616)", "Kurt Wagner (Earth-616)", "Rachel Summers (Earth-811)"], "losers": ["Selene Gallio (Earth-616)"], "method": "fight", "evidence": "Rogue is saved by a mental attack by Professor X, which sends Selene fleeing", "confidence": "high"}
+]}

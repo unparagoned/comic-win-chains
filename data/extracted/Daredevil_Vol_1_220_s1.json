@@ -1,0 +1,31 @@
+{
+ "story_id": "Daredevil Vol 1 220 #s1",
+ "issue": "Daredevil Vol 1 220",
+ "url": "https://marvel.fandom.com/wiki/Daredevil_Vol_1_220",
+ "extracted_by": "claude-code-session (manual run, Claude Opus 5.5)",
+ "dropped": 0,
+ "defeats": [
+  {
+   "winners": [
+    "Matthew Murdock (Earth-616)"
+   ],
+   "losers": [
+    "Manny (Daredevil) (Earth-616)"
+   ],
+   "method": "fight",
+   "evidence": "He punches out Manny and leaves him for the police.",
+   "confidence": "high"
+  },
+  {
+   "winners": [
+    "Matthew Murdock (Earth-616)"
+   ],
+   "losers": [
+    "Silvio Gulio (Earth-616)"
+   ],
+   "method": "fight",
+   "evidence": "He defeats them and captures Silvio.",
+   "confidence": "high"
+  }
+ ]
+}

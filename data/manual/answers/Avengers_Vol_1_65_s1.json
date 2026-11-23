@@ -1,0 +1,27 @@
+{
+ "defeats": [
+  {
+   "winners": [
+    "Jacques DuQuesne (Earth-616)"
+   ],
+   "losers": [
+    "Clinton Barton (Earth-616)"
+   ],
+   "method": "fight",
+   "evidence": "The Swordsman defeats Goliath and captures him",
+   "confidence": "high"
+  },
+  {
+   "winners": [
+    "Clinton Barton (Earth-616)"
+   ],
+   "losers": [
+    "Jacques DuQuesne (Earth-616)",
+    "Elihas Starr (Earth-616)"
+   ],
+   "method": "fight",
+   "evidence": "Goliath regains consciousness and easily defeats the two crooks",
+   "confidence": "high"
+  }
+ ]
+}

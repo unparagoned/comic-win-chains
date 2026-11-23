@@ -1,0 +1,27 @@
+{
+ "defeats": [
+  {
+   "winners": [
+    "Thor Odinson (Earth-616)"
+   ],
+   "losers": [
+    "Atlantean Army (Earth-616)"
+   ],
+   "method": "fight",
+   "evidence": "Thor deflects the Atlanteans' weapons back at themselves, scattering the troops.",
+   "confidence": "high"
+  },
+  {
+   "winners": [
+    "Henry Pym (Earth-616)",
+    "Anthony Stark (Earth-616)"
+   ],
+   "losers": [
+    "Atlantean Army (Earth-616)"
+   ],
+   "method": "fight",
+   "evidence": "they take care of the remaining Atlantean elite guard",
+   "confidence": "medium"
+  }
+ ]
+}

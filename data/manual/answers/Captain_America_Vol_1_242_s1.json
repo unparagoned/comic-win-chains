@@ -1,0 +1,26 @@
+{
+ "defeats": [
+  {
+   "winners": [
+    "Steven Rogers (Earth-616)"
+   ],
+   "losers": [
+    "Brian Muldoon (Earth-616)"
+   ],
+   "method": "outsmarted",
+   "evidence": "Although Muldoon does fire a shot, he is quickly defeated.",
+   "confidence": "high"
+  },
+  {
+   "winners": [
+    "Steven Rogers (Earth-616)"
+   ],
+   "losers": [
+    "Manipulator (Robot) (Earth-616)"
+   ],
+   "method": "talked_down",
+   "evidence": "This revelation is a shock to the Manipulator and he shuts down and falls on his face.",
+   "confidence": "medium"
+  }
+ ]
+}

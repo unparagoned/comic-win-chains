@@ -1,0 +1,26 @@
+{
+ "story_id": "X-Men Vol 1 24 #s1",
+ "issue": "X-Men Vol 1 24",
+ "url": "https://marvel.fandom.com/wiki/X-Men_Vol_1_24",
+ "extracted_by": "claude-code-session (manual run, Claude Opus 5.5)",
+ "dropped": 0,
+ "defeats": [
+  {
+   "winners": [
+    "Charles Xavier (Earth-616)",
+    "Jean Grey (Earth-616)",
+    "X-Men (Earth-616)",
+    "Warren Worthington III (Earth-616)",
+    "Robert Drake (Earth-616)",
+    "Scott Summers (Earth-616)",
+    "Henry McCoy (Earth-616)"
+   ],
+   "losers": [
+    "August Hopper (Earth-616)"
+   ],
+   "method": "talked_down",
+   "evidence": "the Locust finally breaks down and listens to the Professor. He turns himself over to the authorities",
+   "confidence": "high"
+  }
+ ]
+}

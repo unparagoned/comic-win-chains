@@ -1,0 +1,4 @@
+{"defeats": [
+ {"winners": ["Reed Richards (Earth-616)", "Jonathan Storm (Earth-616)"], "losers": ["Galan (Earth-616)"], "method": "talked_down", "evidence": "When Reed threatens to use it against Galactus, he agrees to spare the Earth and leave", "confidence": "high"},
+ {"winners": ["Galan (Earth-616)"], "losers": ["Norrin Radd (Earth-616)"], "method": "other", "evidence": "relieving the Silver Surfer of his herald duties and removing the Silver Surfer's space-time powers", "confidence": "medium"}
+]}

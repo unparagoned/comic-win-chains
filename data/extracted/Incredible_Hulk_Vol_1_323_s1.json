@@ -1,0 +1,21 @@
+{
+ "story_id": "Incredible Hulk Vol 1 323 #s1",
+ "issue": "Incredible Hulk Vol 1 323",
+ "url": "https://marvel.fandom.com/wiki/Incredible_Hulk_Vol_1_323",
+ "extracted_by": "claude-code-session (manual run, Claude Opus 5.5)",
+ "dropped": 0,
+ "defeats": [
+  {
+   "winners": [
+    "Elizabeth Ross (Earth-616)",
+    "Vision (Earth-616)"
+   ],
+   "losers": [
+    "Bruce Banner (Earth-616)"
+   ],
+   "method": "talked_down",
+   "evidence": "the Vision can only free himself when Betty Banner talks the Hulk into calming down",
+   "confidence": "medium"
+  }
+ ]
+}

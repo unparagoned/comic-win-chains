@@ -1,0 +1,20 @@
+{
+ "story_id": "Amazing Spider-Man Vol 1 151 #s1",
+ "issue": "Amazing Spider-Man Vol 1 151",
+ "url": "https://marvel.fandom.com/wiki/Amazing_Spider-Man_Vol_1_151",
+ "extracted_by": "claude-code-session (manual run, Claude Opus 5.5)",
+ "dropped": 0,
+ "defeats": [
+  {
+   "winners": [
+    "Herman Schultz (Earth-616)"
+   ],
+   "losers": [
+    "Peter Parker (Earth-616)"
+   ],
+   "method": "fight",
+   "evidence": "the Shocker uses his vibro-shockers to cause a collapse in the sewer tunnel",
+   "confidence": "high"
+  }
+ ]
+}

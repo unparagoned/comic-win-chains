@@ -1,0 +1,22 @@
+{
+ "story_id": "Fantastic Four Vol 1 98 #s1",
+ "issue": "Fantastic Four Vol 1 98",
+ "url": "https://marvel.fandom.com/wiki/Fantastic_Four_Vol_1_98",
+ "extracted_by": "claude-code-session (manual run, Claude Opus 5.5)",
+ "dropped": 0,
+ "defeats": [
+  {
+   "winners": [
+    "Reed Richards (Earth-616)",
+    "Benjamin Grimm (Earth-616)",
+    "Jonathan Storm (Earth-616)"
+   ],
+   "losers": [
+    "Sentry 9168 (Earth-616)"
+   ],
+   "method": "fight",
+   "evidence": "they manage to defeat the Sentry",
+   "confidence": "high"
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+{
+ "defeats": [
+  {
+   "winners": [
+    "Reed Richards (Earth-616)",
+    "Susan Storm (Earth-616)",
+    "Benjamin Grimm (Earth-616)",
+    "Jonathan Storm (Earth-616)",
+    "Crystalia Amaquelin (Earth-616)"
+   ],
+   "losers": [
+    "Kang (Android) (Earth-616)",
+    "Doctor Doom (Android) (Earth-616)",
+    "Sentry 459 (Android) (Earth-616)",
+    "Dragon Man (Android) (Earth-616)",
+    "Sub-Mariner (Puppet Master Android) (Earth-616)",
+    "Hate-Monger (Android) (Earth-616)",
+    "Diablo (Android) (Earth-616)",
+    "Super-Skrull (Android) (Earth-616)",
+    "Red Ghost (Android) (Earth-616)",
+    "Super-Apes (Androids) (Earth-616)",
+    "Wizard (Android) (Earth-616)",
+    "Trapster (Android) (Earth-616)",
+    "Sandman (Android) (Earth-616)"
+   ],
+   "method": "fight",
+   "evidence": "After all of those duplicates are defeated",
+   "confidence": "high"
+  }
+ ]
+}

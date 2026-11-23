@@ -1,0 +1,26 @@
+{
+ "story_id": "Avengers Vol 1 45 #s1",
+ "issue": "Avengers Vol 1 45",
+ "url": "https://marvel.fandom.com/wiki/Avengers_Vol_1_45",
+ "extracted_by": "claude-code-session (manual run, Claude Opus 5.5)",
+ "dropped": 0,
+ "defeats": [
+  {
+   "winners": [
+    "Steven Rogers (Earth-616)",
+    "Hercules Panhellenios (Earth-616)",
+    "Wanda Maximoff (Earth-616)",
+    "Pietro Maximoff (Earth-616)",
+    "Henry Pym (Earth-616)",
+    "Janet Van Dyne (Earth-616)",
+    "Clinton Barton (Earth-616)"
+   ],
+   "losers": [
+    "Super-Adaptoid (Earth-616)"
+   ],
+   "method": "fight",
+   "evidence": "After a long battle, the Adaptoid is beaten when it tries to use all its different powers at once",
+   "confidence": "medium"
+  }
+ ]
+}

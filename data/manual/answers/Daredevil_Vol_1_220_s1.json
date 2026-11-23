@@ -1,0 +1,26 @@
+{
+ "defeats": [
+  {
+   "winners": [
+    "Matthew Murdock (Earth-616)"
+   ],
+   "losers": [
+    "Manny (Daredevil) (Earth-616)"
+   ],
+   "method": "fight",
+   "evidence": "He punches out Manny and leaves him for the police.",
+   "confidence": "high"
+  },
+  {
+   "winners": [
+    "Matthew Murdock (Earth-616)"
+   ],
+   "losers": [
+    "Silvio Gulio (Earth-616)"
+   ],
+   "method": "fight",
+   "evidence": "He defeats them and captures Silvio.",
+   "confidence": "high"
+  }
+ ]
+}

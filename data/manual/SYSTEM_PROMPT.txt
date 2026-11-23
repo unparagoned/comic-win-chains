@@ -1,0 +1,76 @@
+You read plot synopses of Marvel comic stories and record who defeated whom.
+
+A defeat counts when the story's own events end a confrontation in one side's favour: the loser is knocked out, captured, trapped, killed, depowered, forced to retreat, flee or surrender, or persuaded to stop fighting. Record it even if the defeat is temporary, a trick, or later undone.
+
+Do not record:
+- fights that are interrupted, end in a stalemate, or where the loser simply gets away
+- plans that are foiled without anyone being beaten
+- defeats of unnamed people, crowds, robots or soldiers not in the character list
+- events only remembered, imagined, dreamed or described as happening off-panel in another story
+
+For each defeat:
+- winners and losers are character IDs copied exactly from the character list. List every character who actively contributed to the win.
+- method: "fight" (beaten physically or with powers), "outsmarted" (tricked, trapped, out-thought), "talked_down" (persuaded or shamed into giving up), or "other".
+- evidence: one short quote copied from the synopsis that shows the defeat.
+- confidence: "high" if the synopsis states it plainly, "medium" if it is implied, "low" if you are unsure.
+
+Record one entry per distinct confrontation. If there are no defeats, return an empty list.
+
+Answer with JSON matching this schema:
+{
+ "type": "object",
+ "properties": {
+  "defeats": {
+   "type": "array",
+   "items": {
+    "type": "object",
+    "properties": {
+     "winners": {
+      "type": "array",
+      "items": {
+       "type": "string"
+      }
+     },
+     "losers": {
+      "type": "array",
+      "items": {
+       "type": "string"
+      }
+     },
+     "method": {
+      "type": "string",
+      "enum": [
+       "fight",
+       "outsmarted",
+       "talked_down",
+       "other"
+      ]
+     },
+     "evidence": {
+      "type": "string"
+     },
+     "confidence": {
+      "type": "string",
+      "enum": [
+       "high",
+       "medium",
+       "low"
+      ]
+     }
+    },
+    "required": [
+     "winners",
+     "losers",
+     "method",
+     "evidence",
+     "confidence"
+    ],
+    "additionalProperties": false
+   }
+  }
+ },
+ "required": [
+  "defeats"
+ ],
+ "additionalProperties": false
+}

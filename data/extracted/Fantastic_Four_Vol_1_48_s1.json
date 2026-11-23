@@ -1,0 +1,20 @@
+{
+ "story_id": "Fantastic Four Vol 1 48 #s1",
+ "issue": "Fantastic Four Vol 1 48",
+ "url": "https://marvel.fandom.com/wiki/Fantastic_Four_Vol_1_48",
+ "extracted_by": "claude-code-session (manual run, Claude Opus 5.5)",
+ "dropped": 0,
+ "defeats": [
+  {
+   "winners": [
+    "Benjamin Grimm (Earth-616)"
+   ],
+   "losers": [
+    "Norrin Radd (Earth-616)"
+   ],
+   "method": "fight",
+   "evidence": "the Thing rams into the Surfer knocking him off the edge",
+   "confidence": "medium"
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "story_id": "Fantastic Four Vol 1 209 #s1",
+ "issue": "Fantastic Four Vol 1 209",
+ "url": "https://marvel.fandom.com/wiki/Fantastic_Four_Vol_1_209",
+ "extracted_by": "claude-code-session (manual run, Claude Opus 5.5)",
+ "dropped": 0,
+ "defeats": [
+  {
+   "winners": [
+    "R'Klll (Earth-616)"
+   ],
+   "losers": [
+    "Dorrek VII (Earth-616)"
+   ],
+   "method": "fight",
+   "evidence": "he is cut down by the Empress R'Klll's energy weapon",
+   "confidence": "high"
+  }
+ ]
+}

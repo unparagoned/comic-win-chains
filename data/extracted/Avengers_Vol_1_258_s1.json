@@ -1,0 +1,31 @@
+{
+ "story_id": "Avengers Vol 1 258 #s1",
+ "issue": "Avengers Vol 1 258",
+ "url": "https://marvel.fandom.com/wiki/Avengers_Vol_1_258",
+ "extracted_by": "claude-code-session (manual run, Claude Opus 5.5)",
+ "dropped": 0,
+ "defeats": [
+  {
+   "winners": [
+    "Peter Parker (Earth-616)"
+   ],
+   "losers": [
+    "Pyreus Kril (Earth-616)"
+   ],
+   "method": "fight",
+   "evidence": "find the former herald of Galactus already defeated by Spider-Man",
+   "confidence": "high"
+  },
+  {
+   "winners": [
+    "Hercules Panhellenios (Earth-616)"
+   ],
+   "losers": [
+    "Pyreus Kril (Earth-616)"
+   ],
+   "method": "other",
+   "evidence": "his past ally Hercules is able to restrain him from further destruction",
+   "confidence": "medium"
+  }
+ ]
+}

@@ -1,0 +1,32 @@
+{
+ "story_id": "Fantastic Four Vol 1 257 #s1",
+ "issue": "Fantastic Four Vol 1 257",
+ "url": "https://marvel.fandom.com/wiki/Fantastic_Four_Vol_1_257",
+ "extracted_by": "claude-code-session (manual run, Claude Opus 5.5)",
+ "dropped": 0,
+ "defeats": [
+  {
+   "winners": [
+    "Frankie Raye (Earth-616)"
+   ],
+   "losers": [
+    "Skrull Imperial Starfleet (Earth-616)"
+   ],
+   "method": "fight",
+   "evidence": "she is sent out to face the Skrull armada. As she destroys the ship",
+   "confidence": "high"
+  },
+  {
+   "winners": [
+    "Galan (Earth-616)"
+   ],
+   "losers": [
+    "R'Klll (Earth-616)",
+    "Anelle (Earth-616)"
+   ],
+   "method": "other",
+   "evidence": "turning into a bubbling cauldron of death that consumes all life and decimates the entire planet",
+   "confidence": "medium"
+  }
+ ]
+}

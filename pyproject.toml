@@ -1,0 +1,6 @@
+[project]
+name = "comic-win-chains"
+version = "0.1.0"
+description = "Find chains of on-panel wins between comic characters"
+requires-python = ">=3.10"
+dependencies = ["anthropic>=2.12"]

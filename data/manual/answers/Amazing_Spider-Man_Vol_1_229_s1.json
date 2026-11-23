@@ -1,0 +1,37 @@
+{
+ "defeats": [
+  {
+   "winners": [
+    "Cain Marko (Earth-616)"
+   ],
+   "losers": [
+    "Peter Parker (Earth-616)"
+   ],
+   "method": "fight",
+   "evidence": "Peter runs to there and tries to stop Juggernaut, but he is unsuccessful",
+   "confidence": "low"
+  },
+  {
+   "winners": [
+    "Cain Marko (Earth-616)"
+   ],
+   "losers": [
+    "New York City Police Department (Earth-616)"
+   ],
+   "method": "fight",
+   "evidence": "All of them fail as Juggernaut arrives at Madame Web's apartment",
+   "confidence": "low"
+  },
+  {
+   "winners": [
+    "Peter Parker (Earth-616)"
+   ],
+   "losers": [
+    "Cain Marko (Earth-616)"
+   ],
+   "method": "talked_down",
+   "evidence": "Cain decides to leave Madame Web on the floor and quits",
+   "confidence": "medium"
+  }
+ ]
+}

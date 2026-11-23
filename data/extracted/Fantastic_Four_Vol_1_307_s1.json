@@ -1,0 +1,23 @@
+{
+ "story_id": "Fantastic Four Vol 1 307 #s1",
+ "issue": "Fantastic Four Vol 1 307",
+ "url": "https://marvel.fandom.com/wiki/Fantastic_Four_Vol_1_307",
+ "extracted_by": "claude-code-session (manual run, Claude Opus 5.5)",
+ "dropped": 0,
+ "defeats": [
+  {
+   "winners": [
+    "Sharon Ventura (Earth-616)",
+    "Benjamin Grimm (Earth-616)",
+    "Jonathan Storm (Earth-616)",
+    "Crystalia Amaquelin (Earth-616)"
+   ],
+   "losers": [
+    "Esteban Corazón de Ablo (Earth-616)"
+   ],
+   "method": "fight",
+   "evidence": "he is suddenly ambushed by Ms. Marvel once again, who restrains him before he can cause any harm",
+   "confidence": "high"
+  }
+ ]
+}

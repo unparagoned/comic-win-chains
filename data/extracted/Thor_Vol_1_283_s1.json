@@ -1,0 +1,21 @@
+{
+ "story_id": "Thor Vol 1 283 #s1",
+ "issue": "Thor Vol 1 283",
+ "url": "https://marvel.fandom.com/wiki/Thor_Vol_1_283",
+ "extracted_by": "claude-code-session (manual run, Claude Opus 5.5)",
+ "dropped": 0,
+ "defeats": [
+  {
+   "winners": [
+    "Thor Odinson (Earth-616)"
+   ],
+   "losers": [
+    "Luis (Earth-616)",
+    "Ramon (Earth-616)"
+   ],
+   "method": "fight",
+   "evidence": "He stops their escape and helps in their capture.",
+   "confidence": "low"
+  }
+ ]
+}

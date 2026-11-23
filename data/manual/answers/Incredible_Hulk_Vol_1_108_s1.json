@@ -1,0 +1,4 @@
+{"defeats": [
+ {"winners": ["Mandarin (Earth-616)"], "losers": ["Bruce Banner (Earth-616)"], "method": "outsmarted", "evidence": "the Mandarin manages to capture the Hulk in a glass dome and knock him out with gas", "confidence": "high"},
+ {"winners": ["Bruce Banner (Earth-616)", "Nicholas Fury (Earth-616)", "Yuri Brevlov (Earth-616)"], "losers": ["Mandarin (Earth-616)"], "method": "fight", "evidence": "With the Mandarin defeated, the Hulk walks away", "confidence": "high"}
+]}

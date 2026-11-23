@@ -1,0 +1,80 @@
+{
+ "story_id": "Uncanny X-Men Vol 1 195 #s1",
+ "issue": "Uncanny X-Men Vol 1 195",
+ "url": "https://marvel.fandom.com/wiki/Uncanny_X-Men_Vol_1_195",
+ "extracted_by": "claude-code-session (manual run, Claude Opus 5.5)",
+ "dropped": 0,
+ "defeats": [
+  {
+   "winners": [
+    "Morlocks (Earth-616)",
+    "Masque (Earth-616)"
+   ],
+   "losers": [
+    "Power Pack (Earth-616)",
+    "Alexander Power (Earth-616)",
+    "Julie Power (Earth-616)",
+    "Jack Power (Earth-616)"
+   ],
+   "method": "fight",
+   "evidence": "the Power Pack are overwhelmed by the Morlock who attempt to subdue them",
+   "confidence": "medium"
+  },
+  {
+   "winners": [
+    "Anna Marie LeBeau (Earth-616)"
+   ],
+   "losers": [
+    "Leech (Earth-616)"
+   ],
+   "method": "other",
+   "evidence": "both cancel each other out, knocking out Leech",
+   "confidence": "medium"
+  },
+  {
+   "winners": [
+    "Anna Marie LeBeau (Earth-616)"
+   ],
+   "losers": [
+    "Morlocks (Earth-616)"
+   ],
+   "method": "fight",
+   "evidence": "Rogue is able to beat them with her superior fighting skill",
+   "confidence": "medium"
+  },
+  {
+   "winners": [
+    "Katherine Pryde (Earth-616)",
+    "Katherine Power (Earth-616)"
+   ],
+   "losers": [
+    "Annalee (Earth-616)"
+   ],
+   "method": "talked_down",
+   "evidence": "Kitty asks Annalee if this is how she wishes to honor the memory of her murdered children",
+   "confidence": "medium"
+  },
+  {
+   "winners": [
+    "Callisto (Earth-616)"
+   ],
+   "losers": [
+    "Masque (Earth-616)"
+   ],
+   "method": "other",
+   "evidence": "Callisto enters the room and puts a stop to it",
+   "confidence": "medium"
+  },
+  {
+   "winners": [
+    "Katherine Power (Earth-616)"
+   ],
+   "losers": [
+    "Annalee (Earth-616)"
+   ],
+   "method": "talked_down",
+   "evidence": "Katie manages to convince Annalee that there is plenty to live for",
+   "confidence": "medium"
+  }
+ ]
+}

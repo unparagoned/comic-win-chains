@@ -1,0 +1,47 @@
+{
+ "defeats": [
+  {
+   "winners": [
+    "Taneleer Tivan (Earth-616)",
+    "Abner Jenkins (Earth-616)"
+   ],
+   "losers": [
+    "Janet Van Dyne (Earth-616)"
+   ],
+   "method": "other",
+   "evidence": "The Wasp has been captured by the Collector and the Beetle.",
+   "confidence": "high"
+  },
+  {
+   "winners": [
+    "Taneleer Tivan (Earth-616)"
+   ],
+   "losers": [
+    "Steven Rogers (Earth-616)",
+    "Clinton Barton (Earth-616)",
+    "Wanda Maximoff (Earth-616)",
+    "Pietro Maximoff (Earth-616)",
+    "Henry Pym (Earth-616)"
+   ],
+   "method": "outsmarted",
+   "evidence": "The Avengers enter the Collector's lair and get separated and captured",
+   "confidence": "medium"
+  },
+  {
+   "winners": [
+    "Henry Pym (Earth-616)",
+    "Steven Rogers (Earth-616)",
+    "Clinton Barton (Earth-616)",
+    "Wanda Maximoff (Earth-616)",
+    "Pietro Maximoff (Earth-616)"
+   ],
+   "losers": [
+    "Taneleer Tivan (Earth-616)",
+    "Abner Jenkins (Earth-616)"
+   ],
+   "method": "fight",
+   "evidence": "They rescue the Wasp and force the Collector to escape with the Beetle using a time machine.",
+   "confidence": "high"
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "story_id": "Infinity Gauntlet Vol 1 6 #s1",
+ "issue": "Infinity Gauntlet Vol 1 6",
+ "url": "https://marvel.fandom.com/wiki/Infinity_Gauntlet_Vol_1_6",
+ "extracted_by": "claude-code-session (manual run, Claude Opus 5.5)",
+ "dropped": 0,
+ "defeats": [
+  {
+   "winners": [
+    "Nebula (Earth-616)"
+   ],
+   "losers": [
+    "Galan (Earth-616)",
+    "Stranger (Cosmic Being) (Earth-616)",
+    "Mistress Love (Earth-616)",
+    "Sire Hate (Earth-616)",
+    "Lord Chaos (Earth-616)",
+    "Master Order (Earth-616)",
+    "Kronos (Earth-616)",
+    "Epoch (Earth-616)"
+   ],
+   "method": "fight",
+   "evidence": "Nebula manages to turn the cosmic beings into stone",
+   "confidence": "medium"
+  },
+  {
+   "winners": [
+    "Adam Warlock (Earth-616)"
+   ],
+   "losers": [
+    "Nebula (Earth-616)"
+   ],
+   "method": "outsmarted",
+   "evidence": "Warlock manages to reach out to the other gems and the gauntlet separates from Nebula",
+   "confidence": "high"
+  },
+  {
+   "winners": [
+    "Adam Warlock (Earth-616)",
+    "Bruce Banner (Earth-616)",
+    "Eric Masterson (Earth-616)",
+    "Stephen Strange (Earth-616)"
+   ],
+   "losers": [
+    "Thanos (Earth-616)"
+   ],
+   "method": "fight",
+   "evidence": "Rather than face imprisonment, Thanos chooses to blow himself up",
+   "confidence": "medium"
+  }
+ ]
+}

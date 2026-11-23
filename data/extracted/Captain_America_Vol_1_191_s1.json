@@ -1,0 +1,32 @@
+{
+ "story_id": "Captain America Vol 1 191 #s1",
+ "issue": "Captain America Vol 1 191",
+ "url": "https://marvel.fandom.com/wiki/Captain_America_Vol_1_191",
+ "extracted_by": "claude-code-session (manual run, Claude Opus 5.5)",
+ "dropped": 0,
+ "defeats": [
+  {
+   "winners": [
+    "Steven Rogers (Earth-616)"
+   ],
+   "losers": [
+    "Samuel Wilson (Earth-616)"
+   ],
+   "method": "fight",
+   "evidence": "Falcon tries to escape but Captain America stops him",
+   "confidence": "medium"
+  },
+  {
+   "winners": [
+    "Steven Rogers (Earth-616)",
+    "Samuel Wilson (Earth-616)"
+   ],
+   "losers": [
+    "Wilbur Day (Earth-616)"
+   ],
+   "method": "fight",
+   "evidence": "The heroes eventually manage to topple Stilt-Man and defeat him",
+   "confidence": "high"
+  }
+ ]
+}

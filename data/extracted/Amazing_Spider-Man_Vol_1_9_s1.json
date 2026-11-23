@@ -1,0 +1,31 @@
+{
+ "story_id": "Amazing Spider-Man Vol 1 9 #s1",
+ "issue": "Amazing Spider-Man Vol 1 9",
+ "url": "https://marvel.fandom.com/wiki/Amazing_Spider-Man_Vol_1_9",
+ "extracted_by": "claude-code-session (manual run, Claude Opus 5.5)",
+ "dropped": 0,
+ "defeats": [
+  {
+   "winners": [
+    "Maxwell Dillon (Earth-616)"
+   ],
+   "losers": [
+    "Peter Parker (Earth-616)"
+   ],
+   "method": "fight",
+   "evidence": "when he finally finds him, Electro defeats him",
+   "confidence": "high"
+  },
+  {
+   "winners": [
+    "Peter Parker (Earth-616)"
+   ],
+   "losers": [
+    "Maxwell Dillon (Earth-616)"
+   ],
+   "method": "fight",
+   "evidence": "Spider-Man finally defeats Electro with a fire hose",
+   "confidence": "high"
+  }
+ ]
+}

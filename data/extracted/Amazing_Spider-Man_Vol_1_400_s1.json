@@ -1,0 +1,21 @@
+{
+ "story_id": "Amazing Spider-Man Vol 1 400 #s1",
+ "issue": "Amazing Spider-Man Vol 1 400",
+ "url": "https://marvel.fandom.com/wiki/Amazing_Spider-Man_Vol_1_400",
+ "extracted_by": "claude-code-session (manual run, Claude Opus 5.5)",
+ "dropped": 0,
+ "defeats": [
+  {
+   "winners": [
+    "Jacob Raven (Earth-616)",
+    "Connor Trevane (Earth-616)"
+   ],
+   "losers": [
+    "Peter Parker (Earth-616)"
+   ],
+   "method": "other",
+   "evidence": "Peter is arrested by Detective Raven and his NYPD associate Detective Connor Trevane",
+   "confidence": "low"
+  }
+ ]
+}

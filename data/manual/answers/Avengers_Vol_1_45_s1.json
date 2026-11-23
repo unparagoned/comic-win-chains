@@ -1,0 +1,21 @@
+{
+ "defeats": [
+  {
+   "winners": [
+    "Steven Rogers (Earth-616)",
+    "Hercules Panhellenios (Earth-616)",
+    "Wanda Maximoff (Earth-616)",
+    "Pietro Maximoff (Earth-616)",
+    "Henry Pym (Earth-616)",
+    "Janet Van Dyne (Earth-616)",
+    "Clinton Barton (Earth-616)"
+   ],
+   "losers": [
+    "Super-Adaptoid (Earth-616)"
+   ],
+   "method": "fight",
+   "evidence": "After a long battle, the Adaptoid is beaten when it tries to use all its different powers at once",
+   "confidence": "medium"
+  }
+ ]
+}
